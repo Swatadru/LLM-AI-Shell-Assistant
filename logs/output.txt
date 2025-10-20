@@ -1,0 +1,4 @@
+1.0K	app
+1.0K	server
+8.0K	assistant.sh
+8.0K	logs
